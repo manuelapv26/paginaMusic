@@ -1,0 +1,224 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+section{
+margin: 12% 0 0% 0;
+}
+.clear{
+clear: both;
+}
+.principio{
+background-image: url(../images/angel.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: unset;
+height: 900px;
+}
+.music{
+padding: 300px 20px 20px 33px;
+vertical-align: middle;
+font-size:200px;
+color: #fff;
+}
+.subtitulo{
+font-size: 64px;
+margin: 1% 20%;
+color: #FF5454;
+}
+.muColor{
+color: #fd4c5c;
+}
+.sicColor{
+color: #E31867;
+}
+.subtitulo2{
+font-size: 64px;
+margin: 0% 20% 0%;
+color: rgb(49, 49, 49);
+}
+.circulo1{
+display: inline-block;
+width: 12px;
+height: 12px;
+margin: 0px 0px 0px 5px;
+border-radius: 50%;
+background-color: #E31867;
+margin-right: 5px;
+}
+.circulo{
+display: inline-block;
+width: 12px;
+height: 12px;
+margin: 0px 0px 0px 5px;
+border-radius: 50%;
+background-color: rgb(49, 49, 49);
+}
+.texto{
+float: left;
+margin: 2% 0% 2% 20%;
+font-size: 16.9px;
+word-spacing: 8px;
+line-height: 2;
+}
+.palmer{
+    float: right;
+    margin-right: 270px ;
+    width: 580px;
+    height: 720px;
+}
+
+.boton1{
+    color: white;
+    background-color: #fd4c5c;
+    padding: 16px 52px 16px 52px;
+    margin: 0 50% 0 20%;
+    border-radius: 20px;
+    font-size: 13px;
+    border: #fff;
+}
+.subtitulo3{
+    font-size: 64px;
+    padding: 20% 0 0 51.5%;
+    margin: -25% 0 0 0;
+    color: rgb(226, 0, 0);
+}
+
+.subtitulo4{
+    font-size: 64px;
+    margin: 1% 0 0 51.5%;
+    color: rgb(49, 49, 49);
+}
+
+.texto2{
+    float: right;
+    margin: 2% 18% 2% 0%;
+    font-size: 16.9px;
+    word-spacing: 8px;
+    line-height: 2;
+}
+
+.boton2{
+    color: white;
+    background-color: #fd4c5c;
+    padding: 16px 55px 16px 55px;
+    margin: 0 15% 0 54%;
+    border-radius: 50px;
+    font-size: 13px;
+    border: #fff;
+}
+.boton3{
+    color: white;
+    background-color: #fd4c5c;
+    padding: 16px 55px 16px 55px;
+    margin: 0 15% 0 60%;
+    border-radius: 50px;
+    font-size: 13px;
+    border: #fff;
+}
+
+.wesley{
+    float: left;
+    margin: -32% 0 0 12%;
+    width: 590px;
+    height: 720px;
+}
+
+.subtitulo5{
+    float: right;
+    font-size: 64px;
+    margin: 10% 18% 0 40%;
+    color: #fff;
+}
+
+.subtitulo6{
+    float: right;
+    font-size: 64px;
+    margin: 1% 16% 0 42%;
+    color: #fff;
+}
+
+.raptis{
+    background-image: url(../images/raptis.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: unset;
+    height: 700px;
+    margin-top: 10%;
+}
+
+.texto3{
+    float: right;
+    margin: 2% 11.5% 2% 0%;
+    font-size: 16.9px;
+    word-spacing: 8px;
+    line-height: 2;
+    color: #fff;
+}
+
+footer{
+    background-color: #fd4c5c;
+    height: 540px;
+
+}
+
+table{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    width: 60%;
+    color: #fff;
+    line-height: 30px;
+    font-size: 20px;
+    margin-left: 300px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+    padding-bottom: 50px;
+}
+th{
+    text-align: left;
+    line-height: 100px;
+}
+td{
+    text-align: left;
+    line-height: 45px;
+}
+
+.final{
+    text-align: left;
+    background-color: #fd4c5c;
+    font-size: 20px;
+    height: 100px;
+}
+.final p{
+    color: #fff;
+    margin-left: 10%;
+    padding-top: 30px;
+    margin-top: -22%;
+}
+
+.final span{
+    text-align: right;
+    margin-left: 45% ;
+
+}
+.izq{
+    float:left;
+    width: 50%;
+    margin-top: 69px;
+    margin-left: 80px;
+}
+.parrafo2{
+    margin-left:90px;
+}
+.circulo2{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin: 0px 0px 0px 5px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin-right: 5px;
+}
